@@ -1,5 +1,0 @@
-Carga Msxima: 3095.00 N
-Rigidez: 3913.31 N/mm
-Limite de Resistencia: 2849.19 N
-Diametro medio: 28.02 mm
-Massa especifica media: 0.73896 g/cm³
